@@ -6,6 +6,9 @@ Spatial regionalization is the process of grouping a set of spatial areas into s
 
 This notebook provides a simple demonstration about how to use the EMP algorithm to perform multi-constrained regionalization.
 
-View and interact with the [notebook](https://cybergisxhub.cigi.illinois.edu/notebook/expressive-max-p-regions-algorithm/)
+## Related resources
 
-Source of EMP can be found in package [Pyneapple](https://github.com/MagdyLab/Pyneapple)
+- View and interact with the [notebook](https://cybergisxhub.cigi.illinois.edu/notebook/expressive-max-p-regions-algorithm/)
+- Source of EMP can be found in package [Pyneapple](https://github.com/MagdyLab/Pyneapple)
+- The documentation for the Python APIs can be found at: [Pyneapple Python APIs](https://pyneapple.readthedocs.io/)
+- The JavaDocs is available at : [Pyneapple JavaDocs](https://github.com/MagdyLab/Pyneapple/tree/main/JavaDoc).
